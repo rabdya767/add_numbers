@@ -1,0 +1,27 @@
+{
+  "name": "add-numbers",
+  "version": "1.0.0",
+  "description": "add numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rabdya767/add_numbers.git"
+  },
+  "keywords": [
+    "add",
+    "sum",
+    "numbers"
+  ],
+  "author": "rabdyasanthosh767@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rabdya767/add_numbers/issues"
+  },
+  "homepage": "https://github.com/rabdya767/add_numbers#readme",
+  "dependencies": {
+    "chai": "^4.3.7"
+  }
+}
